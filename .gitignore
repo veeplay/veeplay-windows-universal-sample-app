@@ -1,0 +1,11 @@
+packages/
+VeesoDemo/VeesoDemo.Windows/AppPackages/
+VeesoDemo/VeesoDemo.Windows/bin/
+VeesoDemo/VeesoDemo.Windows/obj/
+VeesoDemo/VeesoDemo.WindowsPhone/AppPackages/
+VeesoDemo/VeesoDemo.WindowsPhone/bin/
+VeesoDemo/VeesoDemo.WindowsPhone/obj/
+*.opensdf
+*.user
+*.suo
+*.sdf
