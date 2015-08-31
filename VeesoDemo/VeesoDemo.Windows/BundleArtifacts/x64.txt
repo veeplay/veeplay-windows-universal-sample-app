@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Dorin\Documents\VeesoWindowsSampleApp\VeesoDemo\VeesoDemo\VeesoDemo.Windows\bin\x64\Release\VeesoDemo.Windows_1.0.0.2_Bundle\VeesoDemo.Windows_1.0.0.2_x64.appx
+SymbolPackage=C:\Users\Dorin\Documents\VeesoWindowsSampleApp\VeesoDemo\VeesoDemo\VeesoDemo.Windows\AppPackages\VeesoDemo.Windows_1.0.0.2_Test\VeesoDemo.Windows_1.0.0.2_x64.appxsym
